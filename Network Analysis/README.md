@@ -1,6 +1,6 @@
 There are 4 directories in this part:
 
-1.overview: Have an overview of ego-Facebook and cora dataset. Try simple visualization.
+1. overview: Have an overview of ego-Facebook and cora dataset. Try simple visualization.
 
 2. attribute: Test whether datasets follow Zipf's law or power distribution.
 Generate similiar networks and compare basic network attributes.
